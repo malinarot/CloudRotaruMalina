@@ -1,0 +1,22 @@
+{
+  "dev": {
+    "db": {
+      "username": "root",
+      "password": "",
+      "database": "bus",
+      "dialect": "mysql"
+    },
+    "port": 8081,
+    "sessionKey": "eg[isfd-8yF9-7w2315dfergergpok123+Ijsli;;termgerdfkhmdkrherhhehwemgro8"
+  },
+  "prod": {
+    "db": {
+      "database": "d4ea406spbpoc1",
+      "username": "ytmoygcyfmgwjj",
+      "password": "29f02f9e247523f6b46cf711adcce7cd263d5d3cc8dc40cec33ad7f4a768e0b2",
+      "dialect": "postgres",
+      "host": "ec2-54-247-89-181.eu-west-1.compute.amazonaws.com"
+    },
+    "sessionKey": "eg[isfd-8yF9-7w2315dfergergpok123+Ijsli;ewmgerdfkhmdkrherhhehwemgro8"
+  }
+}
