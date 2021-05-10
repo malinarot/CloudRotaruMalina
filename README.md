@@ -2,7 +2,6 @@
 
 
 
-[TOC]
 
 ## Introducere
 
@@ -38,7 +37,7 @@ Request body:
 
 Response body:
 { 
-    message: "Experience was sucessfull created"
+    "message": "Experience was sucessfull created"
 }
 
 ```
@@ -48,7 +47,7 @@ GET: /api/logout
 ```json
 Response body:
 { 
-    message: "Successful logout"
+   "message": "Successful logout"
 }
 
 ```
@@ -82,7 +81,7 @@ Singurele endpoint-uri ce pot fi folosite fara ca utilizatorul sa fie autentific
 
 ## Capturi ecran aplicatie
 
-![printscreen](\Capture.PNG)
+![printscreen](Capture.PNG)
 
 ## Referinte
 
